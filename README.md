@@ -44,14 +44,5 @@ There should be a Authority who gives access rights to users
 2. For Governments of various countries, this DApp will create direct passage between the true beneficiaries and Government. This will in turn result in good utilization of resources.
 
 ## github project link
-<a href="https://github.com/rsd511/HealthBuddy-DApp">Link to Github Repo</a>
-
-## Team Code  
-swapnilshinde2000867
-
-## Contact info ( emailid - github id )
-Rahul Sawantdesai - rahul.sawant17@siesgst.ac.in  
-Swapnil Satish Shinde - swapnil.satish17@siesgst.ac.in  
-Shambhavi Sudarsan - shambhavi.sudarsan17@siesgst.ac.in  
 
 
