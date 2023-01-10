@@ -11,7 +11,7 @@ The promise of blockchain has widespread implications for stakeholders in the he
 
 4. Insurance companies will define their conditions for getting accepted and the points not covered by the company . Depending on these conditions and relating those with the patients data insurance will be accepted or rejected .
 
-## Technology stack / technology used ( Very Detailed )
+## Technology stack / technology used
 1. Solidity - To Build The Blockchain.
 
 2. Truffle - To migrate contracts on host.
